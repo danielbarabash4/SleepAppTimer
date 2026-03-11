@@ -1,0 +1,1 @@
+Note: Because this app is not signed with a paid Microsoft certificate, you might see a "Windows protected your PC" warning. This is normal for open-source projects. You can safely click "More info" and "Run anyway
